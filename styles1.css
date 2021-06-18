@@ -1,0 +1,111 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+h1{
+    margin:0 auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 4rem;
+    color:#5E8B7E;
+}
+h2{
+    color:#538b7e;
+}
+h3{
+    color:#5E8B7E;
+}
+p{
+    margin:0 auto 0 auto;
+    font-family:Verdana, Geneva, Tahoma,  sans-serif;
+    color:#000000;
+}
+hr{
+    border-style: none;
+    border-top: dotted;
+    border-color: grey;
+    border: width 5px;
+    width: 5%;
+    color: #EAF6F6;
+}
+.topblock{
+    background-color: #A7C4BC;
+    padding-top: 100px;
+}
+.bottomblock{
+    line-height: 5;
+    background-color: #A7C4BC;
+}
+.profile{
+    width: 40%;
+    margin: 50px auto 50px auto;
+}
+.bottomcloud{
+    position: relative;
+    bottom: 300px;
+    left:80px;
+}
+.mountain{
+    position:relative;
+    right: 40px;
+}
+.topcloud{
+    position:relative;
+    left: 250px;
+    top: 10px;
+}
+.name{
+    color:#5E8B7E;
+}
+.footerlink{
+    color:#5E8B7E;
+}
+.intro{
+    font-weight: normal;
+    color: #5E8B7E;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.skill1{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.skill2{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.contactme{
+    margin-bottom: 10px;
+}
+.footerlink{
+    color: #5E8B7E;
+    margin: 10px 20px;
+    font-family:Verdana, Geneva, Tahoma,  sans-serif;
+    text-decoration: none;
+}
+.Contact {
+    background: #5E8B7E;
+    background-image: -webkit-linear-gradient(top, #5E8B7E, #4E5054);
+    background-image: -moz-linear-gradient(top, #5E8B7E, #4E5054);
+    background-image: -ms-linear-gradient(top, #5E8B7E, #4E5054);
+    background-image: -o-linear-gradient(top, #5E8B7E, #4E5054);
+    background-image: -webkit-gradient(to bottom, #5E8B7E, #4E5054);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    color: #FFFFFF;
+    font-family: Arial;
+    font-size: 19px;
+    font-weight: 200;
+    padding: 19px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+ }
